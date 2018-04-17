@@ -1,0 +1,48 @@
+{
+    "window.zoomLevel": 1,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "vim.useSystemClipboard": true,
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.cursorUp",
+            "sequence": [
+                "cursorUp",
+                "cursorUp",
+                "cursorUp",
+                "cursorUp",
+                "cursorUp"
+            ]
+        },
+        {
+            "command": "multiCommand.cursorDown",
+            "sequence": [
+                "cursorDown",
+                "cursorDown",
+                "cursorDown",
+                "cursorDown",
+                "cursorDown"
+            ]
+        },
+        {
+            "command": "multiCommand.cursorLeft",
+            "sequence": [
+                "cursorLeft",
+                "cursorLeft",
+                "cursorLeft",
+                "cursorLeft",
+                "cursorLeft"
+            ]
+        },
+        {
+            "command": "multiCommand.cursorRight",
+            "sequence": [
+                "cursorRight",
+                "cursorRight",
+                "cursorRight",
+                "cursorRight",
+                "cursorRight"
+            ]
+        }
+    ]
+}
